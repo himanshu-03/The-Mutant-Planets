@@ -4,4 +4,5 @@ The Mutant Planets Club is a collection of 999 mutant NFTs—unique digital coll
 
 Website: https://thenftworld.wixsite.com/themutantplanets
 
-Opensea: https://opensea.io/The_Mutant_Planets_
+Opensea:
+https://opensea.io/The_Mutant_Planets_
